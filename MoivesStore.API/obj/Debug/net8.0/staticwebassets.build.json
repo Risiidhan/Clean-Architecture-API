@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D2VE5eyLBfnqz7ZPbZ93EasLG5kYCHfJs6IE7zYXZKg=",
+  "Source": "MoivesStore.API",
+  "BasePath": "_content/MoivesStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

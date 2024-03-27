@@ -1,0 +1,11 @@
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\bin\Debug\net8.0\MoivesStore.Contract.deps.json
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\bin\Debug\net8.0\MoivesStore.Contract.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\bin\Debug\net8.0\MoivesStore.Contract.pdb
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.AssemblyInfoInputs.cache
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.AssemblyInfo.cs
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.csproj.CoreCompileInputs.cache
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\refint\MoivesStore.Contract.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\MoivesStore.Contract.pdb
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Contract\obj\Debug\net8.0\ref\MoivesStore.Contract.dll

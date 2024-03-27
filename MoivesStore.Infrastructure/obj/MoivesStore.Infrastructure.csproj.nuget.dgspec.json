@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Infrastructure\\MoivesStore.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\MoivesStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\MoivesStore.Application.csproj",
+        "projectName": "MoivesStore.Application",
+        "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\MoivesStore.Application.csproj",
+        "packagesPath": "C:\\Users\\risii\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\risii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\MoivesStore.Contract.csproj": {
+                "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\MoivesStore.Contract.csproj"
+              },
+              "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\MoivesStore.Domain.csproj": {
+                "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\MoivesStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\MoivesStore.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\MoivesStore.Contract.csproj",
+        "projectName": "MoivesStore.Contract",
+        "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\MoivesStore.Contract.csproj",
+        "packagesPath": "C:\\Users\\risii\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\risii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\MoivesStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\MoivesStore.Domain.csproj",
+        "projectName": "MoivesStore.Domain",
+        "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\MoivesStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\risii\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\risii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Infrastructure\\MoivesStore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Infrastructure\\MoivesStore.Infrastructure.csproj",
+        "projectName": "MoivesStore.Infrastructure",
+        "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Infrastructure\\MoivesStore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\risii\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\risii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\MoivesStore.Application.csproj": {
+                "projectPath": "E:\\.NET\\Movie-API-Clean-Architecture\\MoviesStore\\MoivesStore.Application\\MoivesStore.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

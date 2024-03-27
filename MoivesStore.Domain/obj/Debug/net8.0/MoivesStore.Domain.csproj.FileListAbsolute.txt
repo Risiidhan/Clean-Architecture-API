@@ -1,0 +1,12 @@
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\bin\Debug\net8.0\MoivesStore.Domain.deps.json
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\bin\Debug\net8.0\MoivesStore.Domain.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\bin\Debug\net8.0\MoivesStore.Domain.pdb
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.AssemblyInfoInputs.cache
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.AssemblyInfo.cs
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.csproj.CoreCompileInputs.cache
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\refint\MoivesStore.Domain.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.pdb
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\ref\MoivesStore.Domain.dll
+E:\.NET\Movie-API-Clean-Architecture\MoviesStore\MoivesStore.Domain\obj\Debug\net8.0\MoivesStore.Domain.csproj.AssemblyReference.cache
